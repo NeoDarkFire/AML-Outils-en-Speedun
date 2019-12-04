@@ -5,9 +5,10 @@ Il y a plusieurs rôles à jouer dans la communauté:
 * Faire un Speedrun en lui-même
 * Trouver des glitchs exploitables en Speedrun
 * Mettre au point une route optimale
+
 Mais surtout, ceux sur lequels on va se pencher ici:
-* **Créer des ressources**
-* **Créer des logiciels**
+1. **Créer des ressources**
+2. **Créer des logiciels**
 
 
 ## 1. Ressources
